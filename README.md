@@ -1,2 +1,3 @@
 # Biggest Youtube Channel
-Analyze data on the biggest youtube channel in the world.
+
+An exploratory data analysis on youtube's biggest channel: T-Series
